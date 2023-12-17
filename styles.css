@@ -1,0 +1,141 @@
+h1{
+  font-family:'Nunito Sans', sans-serif;
+  font-size:2em;
+  font-weight: 600;
+  margin:20px 130px;
+}
+
+.colorbox,.fontsbox,.textstylesbox{
+    border:solid 2px gray;
+    margin:10px 130px;
+}
+.color,.fonts,.textstyles{
+  margin:10px 10px;
+}
+h2{
+  font-family:'Nunito Sans',sans-serif;
+  font-size:1.5em;
+  font-weight: 700;
+  margin:30px auto;
+  text-align: left;
+}
+
+..color-container{
+  margin:20px auto;
+  position: relative;
+}
+
+
+.coolblue,.pink,.mintgreen,.beige
+{display:inline-block;
+  font-family: 'Nunito Sans',sans-serif;
+  color:white;
+  position:relative;
+  height:100px;
+  width:375px;
+  text-align: center;
+  padding:0 auto;
+  margin:20px auto;
+}
+
+.coolblue{
+  background-color:#2d5dcc ;
+  color:white;
+}
+
+.pink{
+  background-color:#d957d9 ;
+  color:black;
+}
+
+.mintgreen{
+  background-color:#4fe0b0 ;
+  color:black;
+}
+
+.beige{
+  background-color:#efd9ca ;
+  color:black;
+}
+
+.scp,.poppins,.ns
+ {
+  font-family: 'source code pro',sans-serif;
+  display: inline-block;
+  position: relative;
+  margin: 0 10px;
+  text-align: left;
+  padding-right:50px;
+}
+
+.scp{
+  font-family: 'source code pro',sans-serif;
+}
+
+h3{
+  text-decoration: underline;
+  font-size: 19px;
+  font-weight:400;
+}
+
+p.scp2{
+  font-weight: 800;
+}
+
+p.scp3{
+  font-style: italic;
+}
+
+
+.poppins{
+  font-family: poppins,sans-serif;
+}
+
+p.pop2{
+  font-weight: 800;
+}
+
+p.pop3{
+  font-style: italic;
+}
+
+.ns{
+  font-family: 'Nunito Sans',sans-serif;
+}
+
+p.ns2{
+  font-weight: 800;
+}
+
+p.ns3{
+  font-style: italic;
+}
+
+.h1,.h2.h3{
+
+}
+
+p.h1{
+  font-weight:700;
+  font-size: 26px;
+  font-family:'Nunito Sans',sans-serif;
+}
+
+p.h2{
+  font-weight: 500;
+  font-size:18px;
+  font-family:poppins,sans-serif;
+}
+
+p.h3{
+  font-weight: 400;
+  font-size:14px;
+  font-family:poppins,sans-serif;
+}
+
+
+ul li{
+  font-family:'Nunito Sans',sans-serif;
+  line-height: 1.5;
+
+}
